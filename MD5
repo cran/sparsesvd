@@ -1,0 +1,14 @@
+ef8b589980180a1145e510eb1716ca6b *DESCRIPTION
+8413bebad9613cd113b820fe7f723321 *LICENSE
+4492e4d49dfe7bc4cb6d85fa778b2d7e *NAMESPACE
+4cd591d0c8eafafdf50ec4457c07c077 *NEWS
+6886d666ba4ba54a08375d2b3510cfec *R/sparsesvd.R
+61fbac365b6fb456474f0d96c2469841 *man/sparsesvd.Rd
+9eb25d6aa5da8078dde36aeb3b192d96 *src/las2.c
+6c051e160308d6398a8b812bcf9cc1b8 *src/main.c
+145bb3ed15b68cab08d0c4477cea6ec3 *src/svdlib.c
+411e816f799b44c0373d1d421929337c *src/svdlib.h
+fe956af3e31573c11bf8e5f2cfdf5474 *src/svdutil.c
+6be7d469274358bb187f44a827efcbb6 *src/svdutil.h
+9a52d60978e4b52d1b8cbd67866fe9fe *tests/formats.R
+75b1e12dd30551a396da5faee51481e0 *tests/iris.R
