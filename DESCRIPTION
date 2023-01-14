@@ -1,7 +1,7 @@
 Package: sparsesvd
 Title: Sparse Truncated Singular Value Decomposition (from 'SVDLIBC')
-Version: 0.2-1
-Date: 2022-08-22
+Version: 0.2-2
+Date: 2023-01-14
 Authors@R: c(person("Doug", "Rohde", email="dr+svd@tedlab.mit.edu", role="aut"),
              person("Michael", "Berry", role="aut"),
              person("Theresa", "Do", role="aut"),
@@ -18,7 +18,7 @@ License: BSD_3_clause + file LICENSE
 URL: https://github.com/lucasmaystre/svdlibc,
         http://wordspace.r-forge.r-project.org/
 NeedsCompilation: yes
-Packaged: 2022-08-22 17:46:44 UTC; ex47emin
+Packaged: 2023-01-14 18:45:27 UTC; ex47emin
 Author: Doug Rohde [aut],
   Michael Berry [aut],
   Theresa Do [aut],
@@ -31,4 +31,4 @@ Author: Doug Rohde [aut],
     R/*, man/*, tests/*)
 Maintainer: Stephanie Evert <stephanie.evert@fau.de>
 Repository: CRAN
-Date/Publication: 2022-08-23 10:40:06 UTC
+Date/Publication: 2023-01-14 19:40:02 UTC
